@@ -80,4 +80,4 @@ See the [**LICENSE**](license.txt) file for full details.
 If you have questions, suggestions, or opportunities to collaborate, feel free to reach out:\
 
 Karthik Suresh
-LinkedIn: (www.linkedin.com/in/karthik-suresh-ks010)
+LinkedIn: [Link](www.linkedin.com/in/karthik-suresh-ks010)
