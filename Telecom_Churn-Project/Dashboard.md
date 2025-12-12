@@ -1,5 +1,6 @@
 ## Dashboard 
 
-<img width="1883" height="752" alt="Screenshot 2025-12-02 212543" src="https://github.com/user-attachments/assets/b350f592-88d7-4d3c-9e99-95b787e45f38" />
+<img width="1913" height="968" alt="Screenshot 2025-12-10 083137" src="https://github.com/user-attachments/assets/f5991320-f23a-48a2-9839-d376095df3bf" />
 
 **Data Source**: [Data_Source](Data_cleaned.csv)
+<img width="1913" height="968" alt="Screenshot 2025-12-10 083137" src="https://github.com/user-attachments/assets/f5991320-f23a-48a2-9839-d376095df3bf" />
