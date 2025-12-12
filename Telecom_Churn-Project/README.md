@@ -44,14 +44,14 @@ pip install pandas numpy matplotlib seaborn
 
 3. **Run the Script or Explore Analysis :**
    
-``Run this inside your notebook``: [Telecom_Churn_Notebook.py](Telecom_Churn_Notebook.py)
+``Run this inside your notebook``: [Telecom_Churn_Notebook.py](Teleco_Notebook.py)
 
 ``Explore Analysis here``: [Notebook Preview](Teleco_Notebook.ipynb) 
 
 
 ## In-Depth Project Details
 
-A complete and in-depth explanation of this project is available in [Project_report.md](Project_report.md), where the full narrative of the analysis is presented.
+A complete and in-depth explanation of this project is available in [Project_report.md](Project_Report.md), where the full narrative of the analysis is presented.
 
 This document includes the project overview, the stakeholder problem that motivated the work, the data preparation steps, the analytical approach, key insights, solutions generated from the findings, recommendations for decision-makers, and a walkthrough of the dashboard.
 
