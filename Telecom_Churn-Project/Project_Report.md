@@ -33,7 +33,7 @@ To design a dashboard that directly answers each business question.
 
 ## Codes
 Python analysis:
-[Jupyter Notebook](Code.ipynb)
+[Jupyter Notebook](Teleco_Notebook.ipynb)
 
 SQL analysis:
 [MySql](xyz)
