@@ -45,6 +45,7 @@ pip install pandas numpy matplotlib seaborn
 3. **Run the Script or Explore Analysis :**
    
 ``Run this inside your notebook``: [Telecom_Churn_Notebook.py](Teleco_Notebook.py)
+It contains the full data cleaning, analysis, and output generation workflow.
 
 ``Explore Analysis here``: [Notebook Preview](Teleco_Notebook.ipynb) 
 
