@@ -54,9 +54,9 @@ The analysis followed a structured workflow:
   Raw data was inspected, cleaned, and standardized. Missing values were handled, numeric fields were corrected, and new features   were derived to support lifecycle and revenue analysis.
 2. Exploratory Data Analysis (EDA)
   Churn patterns were explored across multiple dimensions including tenure, contract type, payment method, service type, and   monthly charges. Comparative analysis was used to highlight high-risk combinations.
-3.Segmentation & KPI Calculation
+3. Segmentation & KPI Calculation
   Customers were segmented based on tenure, contract, and payment behavior. Key metrics such as churn rate and estimated monthly   revenue loss were calculated to quantify business impact.
-4.Dashboard Preparation
+4. Dashboard Preparation
   The processed data was structured for visualization, enabling interactive dashboard exploration by stakeholders.
 
 ## Tools used in this project
@@ -82,14 +82,12 @@ SQL analysis:
 # Telecom Churn Analysis Dashboard
 Viz link: [``link``](https://public.tableau.com/views/Telecom_Churn_Dashboard_17648657101240/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-### For Detailed Analysis Visit My Portfolio
+## For Detailed Analysis Visit My Portfolio
 Portfolio : [``link``]()
 
-## Business Objective
+## Repository Purpose & Usage
 
-The goal of this project is to analyze customer churn behavior in a telecom dataset, identify key churn drivers, estimate potential revenue loss, and support data-driven retention strategies.
-
-
+This repository is intended to provide transparent access to the code and analytical workflow used in the Telecom Customer Churn project. It is designed for reviewers, recruiters, and collaborators who want to explore the data preparation, analysis logic, and reproducibility of the work. Detailed storytelling, dashboard explanations, and business context are presented separately in the author’s Notion portfolio, while this repository focuses on technical clarity and code accessibility. Together, they represent an end-to-end analytics case study that demonstrates both analytical rigor and business-oriented thinking.
 
 
 
