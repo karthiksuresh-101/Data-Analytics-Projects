@@ -41,8 +41,10 @@ SQL analysis:
 
 ## Tableau
 # Telecom Churn Analysis Dashboard
-Viz link: ``link``
+Viz link: [``link``](https://public.tableau.com/views/Telecom_Churn_Dashboard_17648657101240/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+### For Detailed Analysis Visit My Portfolio
+Portfolio : [``link``]()
 
 
 
