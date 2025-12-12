@@ -21,7 +21,46 @@ To achieve this, I asked AI to generate business questions is relevant to the da
 
 This turns the project from a simple churn analysis into **a stakeholder-focused churn insights solution**, aligned with real-world decision-making and business needs.
 
+## Business Objective & Problem Statement
+
+Customer churn poses a significant financial risk in the telecom industry due to recurring revenue models and high customer acquisition costs. The primary business objective of this project is to identify key churn drivers, understand which customer segments contribute most to churn, and support data-driven retention strategies.
+
+From a stakeholder perspective, the problem centers around:
+- High churn rates impacting monthly revenue
+- Limited visibility into which customers are most at risk
+- Unclear relationship between contracts, services, payments, and churn
+- Lack of prioritization for high-value customer retention
+
+This project addresses these challenges using structured data analysis and business-focused interpretation.
+
+## Dataset Overview
+
+The project uses the Telco Customer Churn dataset from Kaggle, which contains over 7,000 customer records. The dataset includes customer demographics, service subscriptions, account details, billing information, and churn status.
+
+Key fields include:
+customerID, tenure, Contract, PaymentMethod, MonthlyCharges, TotalCharges, InternetService, and Churn.
+
+Before analysis, the dataset required:
+- Handling missing and inconsistent values
+- Converting TotalCharges to numeric format
+- Creating derived features such as tenure_group
+- Estimating churn-related revenue impact using monthly charges
+
+## Analytical Approach
+
+The analysis followed a structured workflow:
+
+1. Data Cleaning & Preparation
+  Raw data was inspected, cleaned, and standardized. Missing values were handled, numeric fields were corrected, and new features   were derived to support lifecycle and revenue analysis.
+2. Exploratory Data Analysis (EDA)
+  Churn patterns were explored across multiple dimensions including tenure, contract type, payment method, service type, and   monthly charges. Comparative analysis was used to highlight high-risk combinations.
+3.Segmentation & KPI Calculation
+  Customers were segmented based on tenure, contract, and payment behavior. Key metrics such as churn rate and estimated monthly   revenue loss were calculated to quantify business impact.
+4.Dashboard Preparation
+  The processed data was structured for visualization, enabling interactive dashboard exploration by stakeholders.
+
 ## Tools used in this project
+
 ### **Python (pandas, numpy, seaborn, matplotlib)**
 To clean raw data, handle missing values, engineer features, and explore patterns visually.
 
@@ -46,6 +85,9 @@ Viz link: [``link``](https://public.tableau.com/views/Telecom_Churn_Dashboard_17
 ### For Detailed Analysis Visit My Portfolio
 Portfolio : [``link``]()
 
+## Business Objective
+
+The goal of this project is to analyze customer churn behavior in a telecom dataset, identify key churn drivers, estimate potential revenue loss, and support data-driven retention strategies.
 
 
 
