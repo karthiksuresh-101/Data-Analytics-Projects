@@ -75,7 +75,7 @@ Python analysis:
 [Jupyter Notebook](Teleco_Notebook.ipynb)
 
 SQL analysis:
-[MySql](xyz)
+[MySql](Telecom_Script.sql)
 
 
 ## Tableau
