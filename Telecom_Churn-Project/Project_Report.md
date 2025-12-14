@@ -83,7 +83,7 @@ SQL analysis:
 Viz link: [``link``](https://public.tableau.com/views/Telecom_Churn_Dashboard_17648657101240/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## For Detailed Analysis Visit My Portfolio
-Portfolio : [``link``]()
+Portfolio : [``link``](https://river-chard-04c.notion.site/Karthik-Suresh-286b37e07bd48100bc18ec598d36511f?source=copy_link)
 
 ## Repository Purpose & Usage
 
