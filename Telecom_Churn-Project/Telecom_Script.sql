@@ -2,7 +2,6 @@
 
 -- Churn rate dependent factors --
 
-
 -- churn rate by senior citizen --
 SELECT ROUND(100.0 * SUM(CASE WHEN Churn='Yes' THEN 1 END)/COUNT(*),2) AS churn_rate_pct
 FROM telecom_churn
